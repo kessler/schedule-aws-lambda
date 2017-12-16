@@ -1,5 +1,5 @@
 {
-  "name": "@kessler/schedule-aws-lambda",
+  "name": "schedule-aws-lambda",
   "version": "0.0.1",
   "description": "attach a schedule to an existing aws lambda function",
   "license": "MIT",
