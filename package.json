@@ -1,0 +1,30 @@
+{
+  "name": "@kessler/schedule-aws-lambda",
+  "version": "0.0.1",
+  "description": "attach a schedule to an existing aws lambda function",
+  "license": "MIT",
+  "author": {
+    "name": "Yaniv Kessler",
+    "email": "yanivk@gmail.com"
+  },
+  "scripts": {},
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "ulid": "^2.2.3"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.171.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "keywords": [
+    "aws",
+    "cron",
+    "lambda",
+    "schedule"
+  ],
+  "engines": {
+    "node": ">=7.0.0",
+    "npm": ">=2.0.0"
+  }
+}
